@@ -1,4 +1,7 @@
 
+
+[![Build Status](https://dev.azure.com/alexclemente1/Create%20New%20Project/_apis/build/status/alexbmw00.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/alexclemente1/Create%20New%20Project/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
